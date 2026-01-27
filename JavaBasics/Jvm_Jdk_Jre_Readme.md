@@ -11,8 +11,7 @@ JRE + compiler (javac) + tools
 Used to develop Java programs
 
 Flow:
-JDK → JRE → JVM
-
+JDK → JRE → JVMs
 
 Java Execution Flow
 1.     JVM starts
