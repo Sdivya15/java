@@ -10,7 +10,7 @@ JDK (Java Development Kit)
 JRE + compiler (javac) + tools
 Used to develop Java programs
 
-Flow:.
+Flow:
 JDK → JRE → JVMs
 
 Java Execution Flow
