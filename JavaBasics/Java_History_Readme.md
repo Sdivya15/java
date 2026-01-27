@@ -5,7 +5,7 @@ WORA - Write Once Read Anywhere
 Java code is compiled to Byte code.
 Same program runs on any OS.
 
-Java Editions:
+Java Editions:S
 Java SE - Core Java
 Java EE(Jakarta EE ) - Enterprise Application
 Java ME - Mobile & Embedded Systems
